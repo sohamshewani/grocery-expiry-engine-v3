@@ -1,0 +1,5 @@
+int main() {
+    // Entry point of the application
+    // Initialize and start the grocery-expiry-engine
+    return 0;
+}
